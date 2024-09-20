@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ximerval.github.io/sitemap.html.gz
+Sitemap: https://ximerval.github.io/app/sitemap.html.gz
+Sitemap: https://ximerval.github.io/assets/sitemap.html.gz
+Sitemap: https://ximerval.github.io/css/sitemap.html.gz
+Sitemap: https://ximerval.github.io/data/sitemap.html.gz
+Sitemap: https://ximerval.github.io/includes/sitemap.html.gz
+Sitemap: https://ximerval.github.io/item/sitemap.html.gz
+Sitemap: https://ximerval.github.io/src/sitemap.html.gz
